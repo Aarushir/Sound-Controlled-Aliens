@@ -1,0 +1,35 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background: rgb(0, 0, 0);
+}
+.header_div{
+    font-family: cursive;
+    color: pink;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#h3{
+    color: pink;
+}
+#h4{
+    color: pink;
+}
+.main_div button{
+font-family: cursive;
+margin-top: 30px;
+width: 130px;
+font-weight: bolder;
+letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: pink;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(0, 0, 0);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px grey;
+}
